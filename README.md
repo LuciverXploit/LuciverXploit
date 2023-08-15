@@ -15,7 +15,7 @@ Wanna Hire Me ?
 Contact : bangluci264@gmail.com
 
 <a href="https://github.com/LuciverXD/IG"><img title="IG" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXD&repo=IG&theme=vision-friendly-dark"></a>
-<a href="https://github.com/LuciverXD/Cravk-Fb"><img title="Crack-Fb" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXD&repo=Crack-Fb&theme=vision-friendly-dark"></a>
+<a href="https://github.com/LuciverXD/Crack-Fb"><img title="Crack-Fb" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXD&repo=Crack-Fb&theme=vision-friendly-dark"></a>
 
 
 
