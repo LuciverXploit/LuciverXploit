@@ -1,7 +1,6 @@
-### Hi there, I'm Ari Marshello Ã°Å¸â€˜â€¹
+### Hi there, I'm Ari Marshello 
 
-
-* MY SOCIAL MEDIA :
+MY SOCIAL MEDIA :
 
 <a href="https://Instagram.com/arimarshello_reall"><img src="https://disk.mediaindonesia.com/thumbs/1800x1200/news/2020/03/1e2c29c543e1c21f54846e7f3eae7c7e.jpg" alt="alt text" width="20" height="20"></a> 
 <a href="https://wa.me/62882005508374?text=Asalamualaikum+bang"><img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/whatsapp.png" alt="alt text" width="20" height="20"></a>
@@ -16,7 +15,6 @@ Wanna Hire Me ?
 
 Contact : bangluci264@gmail.com
 
-![github stats](https://github-readme-stats.vercel.app/api?username=LuciverXD &show_icons=true&theme=dark)
 <a href="https://github.com/LuciverXD/IG"><img title="IG" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXD&repo=IG&theme=vision-friendly-dark"></a>
 <a href="https://github.com/LuciverXD/Cravk-Fb"><img title="Crack-Fb" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXD&repo=Crack-Fb&theme=vision-friendly-dark"></a>
 
@@ -24,7 +22,7 @@ Contact : bangluci264@gmail.com
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciverXD&layout=compact" alt="Top language">
 
-![template_s](https://github.com/LuciverXD/LuciverXD/blob/master/img/wallpaperbetter_(1).jpg)
+
 
 
 ### and here is my stats
