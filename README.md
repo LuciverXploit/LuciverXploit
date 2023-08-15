@@ -18,6 +18,8 @@ Contact : bangluci264@gmail.com
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=LuciverXD &show_icons=true&theme=dark)
 <a href="https://github.com/LuciverXD/IG"><img title="IG" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXD&repo=IG&theme=vision-friendly-dark"></a>
+<a href="https://github.com/LuciverXD/Cravk-Fb"><img title="Crack-Fb" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXD&repo=Crack-Fb&theme=vision-friendly-dark"></a>
+
 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciverXD&layout=compact" alt="Top language">
