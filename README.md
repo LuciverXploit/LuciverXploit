@@ -41,7 +41,7 @@ Contact : bangluci264@gmail.com
 
 <!--
 
-**LuciverXD** is a Ã¢Å“Â¨ _special_ Ã¢Å“Â¨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LuciverXD** is a Ari Marshello _special_ Ari marshello repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
@@ -49,44 +49,6 @@ Here are some ideas to get you started:
 
 
 
-- Ã°Å¸â€Â­ IÃ¢â‚¬â„¢m currently working on ...
-
-- Ã°Å¸Å’Â± IÃ¢â‚¬â„¢m currently learning ...
-
-- Ã°Å¸â€˜Â¯ IÃ¢â‚¬â„¢m looking to collaborate on ...
-
-- Ã°Å¸Â¤â€ IÃ¢â‚¬â„¢m looking for help with ...
-
-- Ã°Å¸â€™Â¬ Ask me about ...
-
-- Ã°Å¸â€œÂ« How to reach me: ...
-
-- Ã°Å¸Ëœâ€ž Pronouns: ...
-
-- Ã¢Å¡Â¡ Fun fact: ...
-
---><h1 align="center">Hi ðŸ‘‹, I'm LuciverXD</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="coding" width="400" src="https://www.mediafire.com/view/cfadlnzs8z2irxd/PXL_20230510_004749729.NIGHT.jpg/file"
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arverdaa&label=Profile%20views&color=0e75b6&style=flat" alt="arverdaa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arverdaa" alt="arverdaa" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/arimarshello" target="blank"><img src="https://img.shields.io/twitter/follow/arimarshello?logo=twitter&style=for-the-badge" alt="arimarshello" /></a> </p>
-
-- ðŸ”­ Iâ€™m currently working on **Luciver28**
-
-- ðŸŒ± Iâ€™m currently learning **Termux**
-
-- ðŸ‘¯ Iâ€™m looking to collaborate on **Luciver28 gaming**
-
-- ðŸ¤ Iâ€™m looking for help with **No**
-
-- ðŸ’¬ Ask me about **React**
-
-- ðŸ“« How to reach me **arimarshello@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
