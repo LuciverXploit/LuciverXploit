@@ -26,13 +26,13 @@ Contact : bangluci264@gmail.com
 <a href="https://github.com/LuciverXploit/Crack-Fb"><img title="Crack-Fb" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=Crack-Fb&theme=vision-friendly-dark"></a>
 <a href="https://github.com/LuciverXploit/MBF"><img title="MBF" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=MBF&theme=vision-friendly-dark"></a>
 <a href="https://github.com/LuciverXploit/PREMIUMV2"><img title="PREMIUMV2" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=PREMIUMV2&theme=vision-friendly-dark"></a>
-<a href="https://github.com/LuciverXploit/Bunny"><img title="Bunny" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXD&repo=Bunny&theme=vision-friendly-dark"></a>
+<a href="https://github.com/LuciverXploit/Bunny"><img title="Bunny" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=Bunny&theme=vision-friendly-dark"></a>
 <a href="https://github.com/LuciverXploit/MBF-2020"><img title="MBF-2020" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=MBF-2020&theme=vision-friendly-dark"></a>
 <a href="https://github.com/LuciverXploit/DARK-FB"><img title="DARK-FB" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=DARK-FB&theme=vision-friendly-dark"></a>
 <a href="https://github.com/LuciverXploit/FORCE"><img title="FORCE" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=FORCE&theme=vision-friendly-dark"></a>
 <a href="https://github.com/LuciverXploit/Get-Token"><img title="Get-Token" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=Get-Token&theme=vision-friendly-dark"></a>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciverXD&layout=compact" alt="Top language">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciverXploit&layout=compact" alt="Top language">
 
 
 
@@ -41,7 +41,7 @@ Contact : bangluci264@gmail.com
 
 <p align="center"><img src="
 
-  <img src="https://github-readme-stats.vercel.app/api?username=LuciverXD&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuciverXploit&show_icons=true&include_all_commits=true&theme=monokai" alt="LuciverXploit GitHub stats" /><br />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
 
