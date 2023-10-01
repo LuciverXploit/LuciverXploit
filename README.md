@@ -48,6 +48,9 @@ Wanna Hire Me ?
 
 Contact : bangluci264@gmail.com
 
+<a href="https://github.com/LuciverXploit/INSTAGRAMPREMIUM"><img title="INSTAGRAMPREMIUM" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=INSTAGRAMPREMIUM&theme=vision-friendly-dark"></a>
+
+
 <a href="https://github.com/LuciverXploit/myTermux"><img title="myTermux" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=myTermux&theme=vision-friendly-dark"></a>
 
 <a href="https://github.com/LuciverXploit/LuciDefacerWeb"><img title="LuciDefacerWeb" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=LuciDefacerWeb&theme=vision-friendly-dark"></a>
