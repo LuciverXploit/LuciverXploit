@@ -48,7 +48,7 @@ Wanna Hire Me ?
 
 Contact : bangluci264@gmail.com
 
-<a href="https://github.com/LuciverXploit/BOTWHATSAPP"><img title="BOTWHATSAPP" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=BOTWHATSAPP &theme=vision-friendly-dark"></a>
+<a href="https://github.com/LuciverXploit/BOTWHATSAPP"><img title="BOTWHATSAPP" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=BOTWHATSAPP&theme=vision-friendly-dark"></a>
 
 
 
