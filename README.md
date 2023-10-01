@@ -31,16 +31,16 @@ ___
     - âš¡ Fun fact: ... </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=bagusfe&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=LuciverXploit&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciverXploit&layout=compact" height=180 />
 </p>
 
 ### Let's connect!
 <p>
-    <a href="https://LuciverXploit.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a>
-    <a href="https://linkedin.luciverxploit.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@luciverxploit" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
-    <a href="https://tw.luciverxploit.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://LuciverXploit.id" target="blank"><img src="https://img.shields.io/badge/Website-https://luciverxploit.com-green?" /></a>
+    <a href="https://linkedin.luciverxploit.com" target="blank"><img src="https://img.shields.io/badge/LuciverXploit-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://medium.com/@luciverxploit" target="blank"><img src="https://img.shields.io/badge/LuciverXploit-30302f?style=flat&logo=medium" /></a>
+    <a href="https://tw.luciverxploit.com" target="blank"><img src="https://img.shields.io/badge/@arimarshello_reall-30302f?style=flat&logo=twitter" /></a>
     <a href="https://www.paypal.me/luciverxploit" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 
