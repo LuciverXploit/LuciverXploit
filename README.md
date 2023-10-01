@@ -9,6 +9,40 @@ ___
 _Smoking And Coffiee_
 ___
 
+### Tools:
+<p>
+    <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
+    <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
+    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://gpvc.arturio.dev/bagusfe" />
+</p>
+
+### Stats:
+<details>
+ <summary><strong>What i am learning/working on these days</strong></summary>
+    - ðŸ”­ Iâ€™m currently working on RPA </br>
+    - ðŸŒ± Iâ€™m currently learning Python,SwiftUI and UIKit </br>
+    - ðŸ‘¯ Iâ€™m looking to collaborate on Automation Project, Mobile Apps. </br>
+    - ðŸ¤” Iâ€™m looking for help with master of programming. hehe </br>
+    - ðŸ’¬ Ask me about anything.</br>
+    - ðŸ“« How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
+    - ðŸ˜„ Pronouns: He/Him </br>
+    - âš¡ Fun fact: ... </br>
+</details>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=bagusfe&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 />
+</p>
+
+### Let's connect!
+<p>
+    <a href="https://LuciverXploit.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a>
+    <a href="https://linkedin.luciverxploit.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://medium.com/@luciverxploit" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
+    <a href="https://tw.luciverxploit.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://www.paypal.me/luciverxploit" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
+</p>
 
 Wanna Hire Me ? 
 
