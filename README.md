@@ -2,15 +2,13 @@
 
 MY SOCIAL MEDIA :
 
-<a href="https://wa.me/62882005508374?text=Asalamualaikum+bang"><img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/whatsapp.png" alt="alt text" width="20" height="20"></a>
-<a href="https://www.facebook.com/Luciver Malware"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="alt text" width="20" height="20"></a> <a href="https://squadcyberpeopleteam.blogspot.com/?m=1"><img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/logo_blogspot_by_YayanXD.jpg" alt="alt text" width="20" height="20"></a> <a href="https://youtube.com/channel/UCNvDaXoyAVCNJbSqtaXA-mg"><img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/logo_yt_by_YayanXD.jpg" alt="alt text" width="20" height="20"></a> 
+<a href="https://wa.me/?text=Asalamualaikum+bang"><img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/whatsapp.png" alt="alt text" width="20" height="20"></a>
+<a href="https://www.facebook.com/Luciver Malware"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="alt text" width="20" height="20"></a> <a href="https://squadcyberpeopleteam.blogspot.com/?m=1"><img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/logo_blogspot_by_YayanXD.jpg" alt="alt text" width="20" height="20"></a> <a href="https://youtube.com/channel/-mg"><img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/logo_yt_by_YayanXD.jpg" alt="alt text" width="20" height="20"></a> 
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
 ___
 _Smoking And Coffiee_
 ___
-<a href="https://www.top4top.me/" target="_blank" title="https://www.top4top.me/"><img src="https://www.top4top.me/do.php?imgf=top4top_me6ba6caece0fd1.png" border="0" alt="https://www.top4top.me/do.php?imgf=top4top_me6ba6caece0fd1.png" /></a>
 
-<a href="https://www.top4top.me/" target="_blank" title="https://www.top4top.me/"><img src="https://www.top4top.me/do.php?imgf=top4top_me955d478a05811.jpg" border="0" alt="https://www.top4top.me/do.php?imgf=top4top_me955d478a05811.jpg" /></a>
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
