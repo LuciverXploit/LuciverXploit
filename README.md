@@ -1,4 +1,4 @@
-### Hi there, I'm Ari Marshello 
+### Hi there, I'M L U C I V E R
 
 MY SOCIAL MEDIA :
 
@@ -76,7 +76,6 @@ Contact : bangluci264@gmail.com
 
 <!--
 
-**LuciverXD** is a Ari Marshello _special_ Ari marshello repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
