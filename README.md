@@ -64,9 +64,6 @@ Contact : bangluci264@gmail.com
 
 <p align="center"><img src="
 
-  <img src="https://github-readme-stats.vercel.app/api?username=LuciverXploit&show_icons=true&include_all_commits=true&theme=monokai" alt="LuciverXploit GitHub stats" /><br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
 
