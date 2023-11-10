@@ -51,12 +51,7 @@ Contact : bangluci264@gmail.com
 
 
 
-<a href="https://github.com/LuciverXploit/Tatsumakiv1"><img title="Tatsumakiv1" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=Tatsumakiv1&theme=vision-friendly-dark"></a>
-
-
-<a href="https://github.com/LuciverXploit/INSTAGRAMPREMIUM"><img title="INSTAGRAMPREMIUM" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=INSTAGRAMPREMIUM&theme=vision-friendly-dark"></a>
-
-<a href="https://github.com/LuciverXploit/PREMIUMV2"><img title="PREMIUMV2" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=PREMIUMV2&theme=vision-friendly-dark"></a>
+<a href="https://github.com/LuciverXploit/Dark-FBV1"><img title="Dark-FBV1" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=Dark-FBV1&theme=vision-friendly-dark"></a>
 
 
 
