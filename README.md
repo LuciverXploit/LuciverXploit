@@ -52,6 +52,7 @@ Contact : bangluci264@gmail.com
 
 
 
+
 <a href="https://github.com/LuciverXploit/Dark-FBV1"><img title="Dark-FBV1" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=Dark-FBV1&theme=vision-friendly-dark"></a>
 
 
@@ -70,7 +71,8 @@ Contact : bangluci264@gmail.com
 
 <!--
 
-
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Terima+Kasih+Telah+Datang;Ke+Githubku+AriMarshello;Kalian+Memang+Hebat+Guys+...&center=true"></a>
 
 
 Here are some ideas to get you started:
