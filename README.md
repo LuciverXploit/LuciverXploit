@@ -25,6 +25,9 @@ ___
 
 </p>
 
+<p align="center">
+<a href="https://github.com/LuciverXploit/Dark-FBV1"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=Dark-FBV1&theme=chartreuse-dark"></a>
+
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
@@ -57,9 +60,6 @@ Contact : bangluci264@gmail.com
 
 
 
-
-<p align="center">
-<a href="https://github.com/LuciverXploit/Dark-FBV1"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=Dark-FBV1&theme=chartreuse-dark"></a>
 
 
 
