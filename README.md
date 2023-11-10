@@ -57,8 +57,8 @@ Contact : bangluci264@gmail.com
 
 
 
-<a href="https://github.com/LuciverXploit/Dark-FBV1"><img title="Dark-FBV1" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=Dark-FBV1&theme=vision-friendly-dark"></a>
-
+<p align="center">
+<a href="https://github.com/LuciverXploit/Dark-FBV1"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=Dark-FBV1&theme=chartreuse-dark"></a>
 
 
 
