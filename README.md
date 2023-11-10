@@ -69,7 +69,7 @@ Contact : bangluci264@gmail.com
 
 
 
-<!--
+
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Terima+Kasih+Telah+Datang;Ke+Githubku+AriMarshello;Kalian+Memang+Hebat+Guys+...&center=true"></a>
