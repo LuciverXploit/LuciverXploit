@@ -43,8 +43,8 @@ ___
 </details>
 <p align="center">
   <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=LuciverXploit&show_icons=true&theme=chartreuse-dark&locale=id">
-</p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciverXploit&layout=compact" height=180 />
+<p align="center">
+  <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciverXploit&layout=compact&theme=chartreuse-dark">
 </p>
 
 ### Let's connect!
