@@ -41,9 +41,10 @@ ___
     - ðŸ˜„ Pronouns: He/Him </br>
     - âš¡ Fun fact: ... </br>
 </details>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=LuciverXploit&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciverXploit&layout=compact" height=180 />
+<p align="center">
+  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=LuciverXploit&show_icons=true&theme=chartreuse-dark&locale=id">
+</p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciverXploit&layout=compact" height=180 />
 </p>
 
 ### Let's connect!
