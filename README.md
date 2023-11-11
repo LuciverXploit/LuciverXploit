@@ -26,7 +26,7 @@ ___
 </p>
 
 <p align="center">
-<a href="https://github.com/LuciverXploit/KING-FB">![github card](https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=KING-FB&theme=dark)</a>
+<a href="https://github.com/LuciverXploit/KING-FB"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=KING-FB&theme=chartreuse-dark"></a>
 <a href="https://github.com/LuciverXploit/Dark-FBV1"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=Dark-FBV1&theme=chartreuse-dark"></a>
 
 ### Stats:
