@@ -33,6 +33,7 @@ ___
 </p>
 
 <p align="center">
+<a href="https://github.com/LuciverXploit/JARVIS-System"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=JARVIS-System&theme=chartreuse-dark"></a>
 <a href="https://github.com/LuciverXploit/Luciana"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=Luciana&theme=chartreuse-dark"></a>
 <a href="https://github.com/LuciverXploit/Simple"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=Simple&theme=chartreuse-dark"></a>
 
