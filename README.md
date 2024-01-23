@@ -43,10 +43,9 @@ ___
 </div>
 
 <div align="center">
-  <a href="https://github.com/LuciverXploit/FB-TARGET"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit &repo=FB-TARGET&theme=chartreuse-dark"></a>
-  <a href="https://github.com/LuciverXploit/PREMIUM"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit &repo=PREMIUM&theme=chartreuse-dark"></a>
+  <a href="https://github.com/LuciverXploit/FB-TARGET"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=FB-TARGET&theme=chartreuse-dark"></a>
+  <a href="https://github.com/LuciverXploit/PREMIUM"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=PREMIUM&theme=chartreuse-dark"></a>
 </div>
-
 </p>
 ### Stats:
 <details>
