@@ -17,7 +17,9 @@
 _Smoking And Coffiee_
 ___
 
-<a href="2.jpg" target="_blank" title="https://www.top4top.me/"><img src="https://e.top4top.io/p_29447pw4s0.png" border="0" alt="2.jpg" /></a>
+<p align="center">
+  <img width="100%" height="auto" src="https://user-images.githubusercontent.com/2.jpg">
+</p>
 ### My Beautifull:
 <a href="https://www.top4top.me/" target="_blank" title="https://www.top4top.me/"><img src="https://c.top4top.io/p_2944ebeem0.jpeg" border="0" alt="https://www.top4top.me/do.php?imgf=top4top_me45be421bb2161.jpg" /></a>
 <video>
