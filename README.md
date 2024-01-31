@@ -47,17 +47,19 @@ JavaScript   9 hrs 41 mins   ████████████░░░░░
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const za = {
-  pronouns: "He" | "Him",
-  code: [Javascript, PHP, HTML, CSS, Python],
-  tools: [Node, Flask, Bootstrap],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+let biodata = {
+  nama: "Ari Marshello",
+  umur: 22,
+  profesi: "Web Developer",
+  pendidikan: "MA Al-Mushafiyah ",
+  keterampilan: ["HTML", "CSS", "JavaScript", "React"],
+  minat: ["Pemrograman", "Desain", "Musik"],
+  deskripsi: function() {
+    return `Halo! Saya ${this.nama}, seorang ${this.profesi} berusia ${this.umur} tahun. Saya memiliki latar belakang pendidikan di bidang ${this.pendidikan} dan memiliki keterampilan dalam ${this.keterampilan.join(", ")}. Selain itu, saya juga tertarik dalam ${this.minat.join(", ")}.`;
+  }
+};
+
+console.log(biodata.deskripsi());
 ```
 
 
