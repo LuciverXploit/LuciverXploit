@@ -33,6 +33,21 @@ ___
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 
 </p>
+```javascript
+let biodata = {
+  nama: "Ari Marshello",
+  umur: 22,
+  profesi: "Web Developer",
+  pendidikan: "MA Al-Mushafiyah ",
+  keterampilan: ["HTML", "CSS", "JavaScript", "React"],
+  minat: ["Pemrograman", "Desain", "Musik"],
+  deskripsi: function() {
+    return `Halo! Saya ${this.nama}, seorang ${this.profesi} berusia ${this.umur} tahun. Saya memiliki latar belakang pendidikan di bidang ${this.pendidikan} dan memiliki keterampilan dalam ${this.keterampilan.join(", ")}. Selain itu, saya juga tertarik dalam ${this.minat.join(", ")}.`;
+  }
+};
+
+console.log(biodata.deskripsi());
+```
 
 <div align="center">
   <a href="https://github.com/LuciverXploit/LUCIVER-AI-CHAT"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=LUCIVER-AI-CHAT&theme=chartreuse-dark"></a>
