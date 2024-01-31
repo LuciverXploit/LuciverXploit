@@ -33,20 +33,29 @@ ___
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 
 </p>
-javascript
-let biodata = {
-  nama: "Ari Marshello",
-  umur: 22,
-  profesi: "Web Developer",
-  pendidikan: "MA Al-Mushafiyah ",
-  keterampilan: ["HTML", "CSS", "JavaScript", "React"],
-  minat: ["Pemrograman", "Desain", "Musik"],
-  deskripsi: function() {
-    return `Halo! Saya ${this.nama}, seorang ${this.profesi} berusia ${this.umur} tahun. Saya memiliki latar belakang pendidikan di bidang ${this.pendidikan} dan memiliki keterampilan dalam ${this.keterampilan.join(", ")}. Selain itu, saya juga tertarik dalam ${this.minat.join(", ")}.`;
-  }
-};
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+Python    10 hrs 41 mins  █████████████░░░░░░░░░░░░   52.47 % 
+JavaScript   9 hrs 41 mins   ████████████░░░░░░░░░░░░░   47.53 % 
+```
+<!--END_SECTION:waka-->
 
-console.log(biodata.deskripsi());
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const za = {
+  pronouns: "He" | "Him",
+  code: [Javascript, PHP, HTML, CSS, Python],
+  tools: [Node, Flask, Bootstrap],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
 
 <div align="center">
