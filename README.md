@@ -21,8 +21,7 @@ ___
 
 
 ![template_s](https://github.com/LuciverXploit/LuciverXploit/blob/main/2.jpg)
-### My Beautifull:
-![template_s](https://github.com/LuciverXploit/LuciverXploit/blob/main/OIG%20(14).jpeg)
+
 <video>
 <source src="https://www.top4top.me/do.php?filename=top4top_mee01a8dde81461.mp4">
 </video>
@@ -109,6 +108,7 @@ Contact : bangluci264@gmail.com
 
 
 
+![template_s](https://github.com/LuciverXploit/LuciverXploit/blob/main/OIG%20(14).jpeg)
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Terima+Kasih+Telah+Datang;Ke+Githubku+AriMarshello;Kalian+Memang+Hebat+Guys+...&center=true"></a>
 
