@@ -34,6 +34,11 @@ ___
 </p>
 
 <div align="center">
+  <a href="https://github.com/LuciverXploit/LUCIVER-AI-CHAT"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=LUCIVER-AI-CHAT&theme=chartreuse-dark"></a>
+  <a href="https://github.com/LuciverXploit/WebProfilku"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=WebProfilku&theme=chartreuse-dark"></a>
+</div>
+
+<div align="center">
   <a href="https://github.com/LuciverXploit/FBMULTI"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=FBMULTI&theme=chartreuse-dark"></a>
   <a href="https://github.com/LuciverXploit/PLURALISME"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=PLURALISME&theme=chartreuse-dark"></a>
 </div>
