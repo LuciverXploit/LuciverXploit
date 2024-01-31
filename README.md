@@ -20,7 +20,7 @@ ___
 
 ![template_s](https://github.com/LuciverXploit/LuciverXploit/blob/main/2.jpg)
 ### My Beautifull:
-<a href="https://www.top4top.me/" target="_blank" title="https://www.top4top.me/"><img src="https://c.top4top.io/p_2944ebeem0.jpeg" border="0" alt="https://www.top4top.me/do.php?imgf=top4top_me45be421bb2161.jpg" /></a>
+![template_s](https://github.com/LuciverXploit/LuciverXploit/blob/main/2.jpg)
 <video>
 <source src="https://www.top4top.me/do.php?filename=top4top_mee01a8dde81461.mp4">
 </video>
