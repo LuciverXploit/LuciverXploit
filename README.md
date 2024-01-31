@@ -1,9 +1,10 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Welcome+To+My+Github;Luciver+Xploit+AriMarshello;Nice+To+Meet+You+...&center=true"></a>
+
+
+   ### ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ ☎️
 <img src="https://avatars.githubusercontent.com/u/141313228?v=4" width="120" height="120" align="left">
 <center>
-
-### ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ ☎️
 <p align="left">
   <a href="https://instagram.com/@arimarshello_reall"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/qr/0882005508374"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
