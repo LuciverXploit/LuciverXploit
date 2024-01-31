@@ -13,7 +13,7 @@
   <a href="https://www.youtube.com/@LuciverX"><img src="https://img.shields.io/badge/YouTube-Luciver Xploit-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/LuciverXploit" /><br>
   <a name=Luciver Hacker&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/LuciverXploit"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/channel/LuciverX"><img src="https://img.shields.io/youtube/channel/subscribers/Sanzofficiall?style=social" /> <br>
+  <a href="https://youtube.com/channel/arimarshelloreall"><img src="https://img.shields.io/youtube/channel/subscribers/arimarshelloreall?style=social" /> <br>
 </p>
 
 _Smoking And Coffiee_
