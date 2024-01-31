@@ -20,7 +20,7 @@ ___
 
 ![template_s](https://github.com/LuciverXploit/LuciverXploit/blob/main/2.jpg)
 ### My Beautifull:
-![template_s](https://github.com/LuciverXploit/LuciverXploit/blob/main/2.jpg)
+![template_s](https://github.com/LuciverXploit/LuciverXploit/blob/main/OIG%20(14).jpeg)
 <video>
 <source src="https://www.top4top.me/do.php?filename=top4top_mee01a8dde81461.mp4">
 </video>
