@@ -17,9 +17,8 @@
 _Smoking And Coffiee_
 ___
 
-<p align="center">
-  <img width="100%" height="auto" src="https://user-images.githubusercontent.com/2.jpg">
-</p>
+
+![template_s](https://github.com/Yayan-XD/Yayan-XD/blob/master/img/wallpaperbetter_(1).jpg)
 ### My Beautifull:
 <a href="https://www.top4top.me/" target="_blank" title="https://www.top4top.me/"><img src="https://c.top4top.io/p_2944ebeem0.jpeg" border="0" alt="https://www.top4top.me/do.php?imgf=top4top_me45be421bb2161.jpg" /></a>
 <video>
