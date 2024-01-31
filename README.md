@@ -33,7 +33,7 @@ ___
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 
 </p>
-```javascript
+javascript
 let biodata = {
   nama: "Ari Marshello",
   umur: 22,
@@ -47,7 +47,7 @@ let biodata = {
 };
 
 console.log(biodata.deskripsi());
-```
+
 
 <div align="center">
   <a href="https://github.com/LuciverXploit/LUCIVER-AI-CHAT"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=LUCIVER-AI-CHAT&theme=chartreuse-dark"></a>
