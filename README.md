@@ -20,7 +20,7 @@ _Smoking And Coffiee_
 ___
 
 
-![template_s](https://github.com/LuciverXploit/LuciverXploit/blob/main/2.jpg)
+![template_s](https://github.com/LuciverXploit/LuciverXploit/blob/main/9300c0935ddea7b6288a41984b002b35.gif)
 
 <video>
 <source src="https://www.top4top.me/do.php?filename=top4top_mee01a8dde81461.mp4">
