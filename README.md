@@ -36,7 +36,6 @@ ___
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 
 </p>
-![template_s](https://github.com/LuciverXploit/LuciverXploit/blob/main/776ec0e4ae22eb7064b460c4836e61a8.jpg)
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
