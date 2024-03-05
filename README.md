@@ -3,7 +3,7 @@
 
 
 ### ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ ☎️
-<img src="https://github.com/LuciverXploit/LUCIVER-AI-CHAT/blob/main/20240128_211550.png" width="120" height="120" align="left">
+<img src="https://github.com/LuciverXploit/LuciverXploit/blob/main/ade7ba57bd941b801c79128ffc54cd60.jpg" width="120" height="120" align="left">
 <center>
 <p align="center">
   <a href="https://instagram.com/@arimarshello_reall"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
