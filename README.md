@@ -33,7 +33,7 @@ ___
     <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-
+![template_s](https://github.com/LuciverXploit/LuciverXploit/blob/main/776ec0e4ae22eb7064b460c4836e61a8.jpg)
 </p>
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -45,6 +45,7 @@ Python    10 hrs 41 mins  █████████████░░░░░
 html   9 hrs 41 mins   ████████████░░░░░░░░░░░░░   47.53 % 
 ```
 <!--END_SECTION:waka-->
+![template_s](https://github.com/LuciverXploit/LuciverXploit/blob/main/9a77e9ba83003b85b6e543e602565b9c.jpg)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
