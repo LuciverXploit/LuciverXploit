@@ -3,9 +3,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Luciver+Xploit+Jangan+Lupa+Follow" />
 </p>
-<a href="https://github.com/Yayan-XD/ymbf"><img title="ymbf" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=ymbf&theme=radical"></a>
-<a href="https://github.com/Yayan-XD/Brute"><img title="Brute" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=Brute&theme=radical"></a>
-<a href="https://github.com/Yayan-XD/Cr4ck"><img title="Cr4ck" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=Cr4ck&theme=radical"></a>
+<div style="display: flex; justify-content: space-between;">
+    <a href="https://github.com/Yayan-XD/ymbf"><img title="ymbf" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=ymbf&theme=radical"></a>
+    <a href="https://github.com/Yayan-XD/Brute"><img title="Brute" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=Brute&theme=radical"></a>
+    <a href="https://github.com/Yayan-XD/Cr4ck"><img title="Cr4ck" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=Cr4ck&theme=radical"></a>
+</div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,c,cs,cpp,js,css,html" />
