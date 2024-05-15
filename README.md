@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Luciver+Xploit+Jangan+Lupa+Follow" />
 </p>
 <div align="center">
-  <img width="45%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapunta&layout=compact&theme=chartreuse-dark">
+  <img width="45%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciverXploit&layout=compact&theme=dark">
 </div>
 <div align="center">
   <a href="https://github.com/LuciverXploit/JKT48"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=JKT48&theme=dark"></a>
