@@ -3,6 +3,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Luciver+Xploit+Jangan+Lupa+Follow" />
 </p>
+<p align="center" width="100%" height="auto">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Dapunta.Dapunta&style=flat-square&color=darkgreen"/>
+    <img src="https://img.shields.io/github/followers/Dapunta?style=flat-square&color=blue"/>
+    <img src="https://img.shields.io/github/stars/Dapunta?style=flat-square&color=yellow"/>
+</p>
 <div align="center">
   <img width="45%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciverXploit&layout=compact&theme=dark">
 </div>
