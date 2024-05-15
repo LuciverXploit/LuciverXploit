@@ -4,8 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Luciver+Xploit+Jangan+Lupa+Follow" />
 </p>
 <div align="center" style="background-color: #f8e71c; padding: 10px;">
-  <a href="https://github.com/Dapunta/elite"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=elite&theme=chartreuse-dark"></a>
-  <a href="https://github.com/Dapunta/premium"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=premium&theme=chartreuse-dark"></a>
+  <a href="https://github.com/Dapunta/elite"><img width="49%" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"></a>
+  <a href="https://github.com/Dapunta/premium"><img width="49%" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"></a>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
