@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Luciver+Xploit+Jangan+Lupa+Follow" />
 </p>
 <p align="center">
-  <img width="70%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Dapunta&show_icons=true&theme=chartreuse-dark&locale=id">
+  <img width="70%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Dapunta&show_icons=true&theme=dark&locale=id">
 </p>
 <p align="center" width="100%" height="auto">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Dapunta.Dapunta&style=flat-square&color=darkgreen"/>
