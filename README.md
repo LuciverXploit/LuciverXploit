@@ -8,7 +8,7 @@
   <a href="https://github.com/MikuDevReal"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
 </p>
 
-_Smoking And Coffiee_
+_Sering Di Rendahkan Tapi Aku Tetap Merendah_
 ___
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Luciver+Xploit+Jangan+Lupa+Follow" />
