@@ -3,6 +3,45 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Luciver+Xploit+Jangan+Lupa+Follow" />
 </p>
+```go
+package main
+
+import "fmt"
+
+type Biodata struct {
+    Nama, Alamat, Email, Telepon string
+    Umur                         int
+    Pendidikan, Pengalaman       []string
+}
+
+func main() {
+    bio := Biodata{
+        Nama:    "Ari Marshello",
+        Umur:    22,
+        Alamat:  "Jalan Kahuripan",
+        Email:   "luciverxploit@onion.com",
+        Telepon: " - ",
+        Pendidikan: []string{
+            "SMK MIFTAHUL IHSAN",
+            "MA AL-MUSHAFIYAH",
+        },
+        Pengalaman: []string{
+            "Programmer",
+            "Teacher",
+        },
+    }
+
+    fmt.Println("Biodata:")
+    fmt.Println("Nama:", bio.Nama)
+    fmt.Println("Umur:", bio.Umur)
+    fmt.Println("Alamat:", bio.Alamat)
+    fmt.Println("Email:", bio.Email)
+    fmt.Println("Telepon:", bio.Telepon)
+    fmt.Println("Pendidikan:", bio.Pendidikan)
+    fmt.Println("Pengalaman:", bio.Pengalaman)
+}
+```
+
 <p align="center">
   <img width="70%" height="auto" src="https://github-readme-stats.vercel.app/api?username=LuciverXploit&show_icons=true&theme=dark&locale=id">
 </p>
